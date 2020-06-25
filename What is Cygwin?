@@ -1,0 +1,1 @@
+Cygwin is just a collection of open source tools that operate in a Linux-like Terminal under MS Windows. You should not expect native Linux applications to run under Cygwin. Its usage is limited to trivial Command Line file manipulations. Cygwin is not suitable for most serious Bioinformatics work.
